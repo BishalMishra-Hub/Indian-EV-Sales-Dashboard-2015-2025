@@ -1,7 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Indian%20EV%20Sales%20Dashboard-2015--2025-1f6feb?style=for-the-badge&logo=powerbi&logoColor=white" />
-</p>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0d72,100:ff6bb5&height=200&section=header&text=Indian%20EV%20Sales%20Dashboard%20(2015-2025)&fontSize=45&fontColor=ffffff&animation=fadeIn"
+  />
+</div>
 
 <h1 align="center">⚡ Indian Electric Vehicle (EV) Sales & Market Dashboard (2015–2025)</h1>
 
